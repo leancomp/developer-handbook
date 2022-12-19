@@ -1,9 +1,9 @@
 name: Push
 
-on:
-  push:
-    branches:
-      - 'master'
+#on:
+#  push:
+#    branches:
+#      - 'master'
 
 env:
   DOCKER_FILE_PATH: Dockerfile

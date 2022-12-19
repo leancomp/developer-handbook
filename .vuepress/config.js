@@ -58,6 +58,7 @@ module.exports = {
                 title: 'Database',
                 children: [
                     '/content/database/',
+                    '/content/database/dynamo-db',
                 ]
             },
             {
@@ -100,7 +101,7 @@ module.exports = {
                 ]
             }
         ],
-        repo: 'https://github.com/stakater/developer-handbook',
+        repo: 'https://github.com/leancomp/developer-handbook',
         editLinks: true,
         editLinkText: 'Help us improve this page!'
     }
